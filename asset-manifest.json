@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dijkstras-Algorithm/static/css/main.973b96fe.css",
+    "main.js": "/Dijkstras-Algorithm/static/js/main.f059d3ef.js",
+    "index.html": "/Dijkstras-Algorithm/index.html",
+    "main.973b96fe.css.map": "/Dijkstras-Algorithm/static/css/main.973b96fe.css.map",
+    "main.f059d3ef.js.map": "/Dijkstras-Algorithm/static/js/main.f059d3ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973b96fe.css",
+    "static/js/main.f059d3ef.js"
+  ]
+}
